@@ -111,6 +111,11 @@ p {
   color: var(--clr-grey-5);
 }
 
+.center {
+  display: flex;
+  justify-content: center;
+}
+
 @media screen and (min-width: 800px) {
   h1 {
     font-size: 4rem;
